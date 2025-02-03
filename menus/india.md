@@ -28,3 +28,11 @@ La comida india se caracteriza por ser colorida, de sabores y aromas variados
 - Nimbus pani
 - Piyush
 - Kanji
+
+## Consejos
+
+- Mantén agua cerca de la estufa.
+- Cocine hasta que el aceite se separe
+- Familiarícese con los ingredientes básicos
+- Ten a mano los ingredientes básicos.
+- Prepara los frijoles y las lentejas.
