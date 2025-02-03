@@ -21,3 +21,13 @@ Panna Cotta, es un dulce especial de origen italiano, parecido al flan y con una
 
 5. Pasteís de Belém
 Pastéis de Belém, es un postre originario de Portugal, perfecto para compartir. Según cuenta la leyenda, la receta de este postre lleva en secreto por más de 200 años y solo 3 personas en el mundo la conocen. Este postre fue creado a principios del siglo XIX, como una iniciativa de negocio en la época de revolución en Portugal. Así que tengan por seguro que probarlas será todo un privilegio de esta lista.
+
+## Bebidas Recomendadas
+
+* Vinos. Aquí es importante que consideren la acidez del vino.
+* Champaña.
+* Aromáticas.
+* Café.
+* Chocolate caliente.
+* Soda con limón.
+* Cocteles.
