@@ -24,3 +24,13 @@ Otro plato que no puede faltar en una mesa china durante las celebraciones del A
 WANTON MEE
 
 El wanton mee son unos fideos cantoneses de huevo muy populares en China, sobre todo en Hong Kong. Estos noodles se sirven en una especie de sopa, con abundante salsa de ostras o de soja.
+
+## Bebidas Recomendadas
+
+- 娃哈哈 (Wahaha)  旺仔牛奶 (Wang Zai Niu Nai)
+- 可乐 (Cocacola)
+- 椰树牌椰汁 (Yeshupai Yezi)
+- 康师傅冰红茶 (Kangshifu Bing Hong Cha)
+- 珍珠奶茶 (Bubble tea)
+- 青岛啤酒 (Cerveza Tsingtao)
+- 王老吉 (Wang Lao Ji)
