@@ -25,3 +25,14 @@ Otra receta vegetariana verdaderamente fácil, además de muy económica y muy a
 
 Una deliciosa receta clásica de la cocina italiana que sólo necesita ingredientes vegetarianos para su preparación, además de queso.
 
+
+## Bebidas Recomendadas
+
+* Limonada de Lavanda.
+* Leche de Avena.
+* Leche Vegetal de Girasol y Algarroba.
+* Leche de Almendras y Nueces.
+* Jugo Energético de Zanahoria y Remolacha.
+* Batido de Vainilla con Menta.
+* Batido de Piña y Plátano.
+
