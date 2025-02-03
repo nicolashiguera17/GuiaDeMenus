@@ -20,3 +20,10 @@ la comida mexicana reúne tradiciones gastronómicas indígenas y europeas, entr
 - Paloma.
 - Aguas Frescas.
 - Refrescos Mexicanos.
+
+## Consejos
+1. Quédate con los frijoles negros
+2. Evite las salsas
+3. Manténgase alejado de la carne de res y el queso.
+4. Deja de picar entre horas
+5. Pide tortillas de maíz
