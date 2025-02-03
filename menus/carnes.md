@@ -30,3 +30,7 @@ El solomillo es un corte de primera calidad que puede aplicarse a la res, la ter
 * Vino tinto. Si te preguntas qué tipos de alimentos se toman con vino tinto, los asados están en el tope de la lista. ...
 * Piscola. ...
 * Fernet.
+
+## Consejos
+
+Las recomendaciones pueden variar según la edad, género, nivel de actividad física y otras características individuales. Sin embargo, una pauta general es consumir entre 2 y 3 porciones de carne a la semana, siendo una porción aproximadamente del tamaño de la palma de tu mano.
