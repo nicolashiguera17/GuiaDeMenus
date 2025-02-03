@@ -34,3 +34,9 @@ El wanton mee son unos fideos cantoneses de huevo muy populares en China, sobre 
 - 珍珠奶茶 (Bubble tea)
 - 青岛啤酒 (Cerveza Tsingtao)
 - 王老吉 (Wang Lao Ji)
+
+## Consejos
+- Trata de variar las carnes y las verduras en un plato, para que haya una interesante variedad de sabores, texturas y colores.
+- Lo fresco es mejor: utiliza ingredientes frescos siempre que sea posible.
+- Asegúrate de tener todo preparado antes de empezar a cocinar: las verduras lavadas, escurridas y cortadas; la carne cortada y marinada; las salsas preparadas.
+
