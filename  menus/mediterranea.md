@@ -24,3 +24,10 @@ El tabulé es una ensalada fresca y ligera de origen libanés. Está hecha princ
 
 5. Calamari a la Romana
 Este plato es una deliciosa preparación de calamares, muy popular en Italia. Los calamares se rebozan y fríen hasta obtener un exterior crujiente, pero manteniendo su interior tierno. Se sirven generalmente con una salsa marinara o alioli para un toque de sabor adicional.
+
+## Bebidas Recomendadas
+
+- Agua de Valencia: el cóctel mediterráneo por excelencia. ...
+- Negroni: la bebida mediterránea de elaboración simple más internacional. ...
+- Brisa griega: para los amantes de la coctelería creativa. ...
+- Mauresque: el clásico almendrado.
