@@ -12,3 +12,11 @@ la comida mexicana reúne tradiciones gastronómicas indígenas y europeas, entr
 - Cochinita pibil.
 - Papadzules.
 - Chiles en nogada.
+
+## Bebidas Recomendadas
+
+- Margarita. Ninguna lista de bebidas mexicanas estaría completa sin la icónica Margarita.
+- Michelada.
+- Paloma.
+- Aguas Frescas.
+- Refrescos Mexicanos.
