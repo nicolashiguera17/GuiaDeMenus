@@ -20,3 +20,11 @@ La comida india se caracteriza por ser colorida, de sabores y aromas variados
 7. ** Dhal o dal **:.Son legumbres secas sin piel. Puede ser un plato de frijoles, arvejas o lentejas en sus diferentes variedades. Se guisan con especias como cúrcuma, jengibre, comino, ajo y cilantro. En algunas regiones de India agregan verduras (cebolla, tomate y espinacas).  
 
 8. ** Aloo Dum **:.Una receta a base de papas pequeñas. Se saltean y cocinan lentamente en una salsa picante con curry, yogurt y una serie de especias: semillas de hinojo, cilantro y comino, chiles, cardamomo, jengibre seco, clavo y pimienta negra.  
+
+## Bebidas Recomendadas
+
+- Solkadhi
+- Té masala
+- Nimbus pani
+- Piyush
+- Kanji
