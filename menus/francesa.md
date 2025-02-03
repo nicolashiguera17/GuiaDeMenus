@@ -44,3 +44,13 @@ Otros licores franceses: Absenta, Ciroc, Cointreau.
 - Vinos franceses: Champagne, Borgoña, Burdeos.
 - Cocteles franceses: French Connection, French 75, French Gimlet.
 - Calvados: Brandy de manzana de Normandía.
+
+## Consejos
+
+- Uso de ingredientes de la región
+Los ingredientes frescos y locales son una parte integral de la gastronomía francesa, y son seleccionados cuidadosamente para crear platos con un sabor único y auténtico.
+
+- Técnicas culinarias innovadoras
+La gastronomía de Francia se caracteriza por el uso de técnicas culinarias innovadoras y modernas para crear platos únicos y exquisitos.
+
+- La presentación y decoración de los platos
