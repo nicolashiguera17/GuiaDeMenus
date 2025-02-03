@@ -36,3 +36,11 @@ Acá nos encontramos con dos versiones del sándwich nacional francés, cuya dif
 
 - Croque-Madame: es el mismo proceso anterior solo que antes de servir, añadimos un huevo frito sobre el sándwich, que funciona como el sombrero de esta señora.
 Aunque suena como un nombre fabuloso y lleno de estilo, la traducción de estos platos al español es señor y señora crujiente.
+
+## Bebidas Recomendadas
+
+- Pastis: Un licor anisado muy popular.
+Otros licores franceses: Absenta, Ciroc, Cointreau.
+- Vinos franceses: Champagne, Borgoña, Burdeos.
+- Cocteles franceses: French Connection, French 75, French Gimlet.
+- Calvados: Brandy de manzana de Normandía.
