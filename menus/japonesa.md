@@ -23,4 +23,7 @@ Sake.
 Sochu.
 Awamori.
 
+## Consejos
 
+- utiliza palillos para una mayor comodidad 
+- Nunca los utilices individualmente para pinchar o atravesar la comida
