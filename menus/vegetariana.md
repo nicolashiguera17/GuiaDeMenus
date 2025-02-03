@@ -36,3 +36,7 @@ Una deliciosa receta clásica de la cocina italiana que sólo necesita ingredien
 * Batido de Vainilla con Menta.
 * Batido de Piña y Plátano.
 
+## Consejos
+
+Elija alimentos fortificados, como los cereales, panes, leche de soya o de almendra y jugos de fruta para obtener una gran variedad de nutrientes. Reduzca los alimentos que sean ricos en grasa, azúcar y sal (sodio). Incluya una fuente de proteínas en todas sus comidas.
+
