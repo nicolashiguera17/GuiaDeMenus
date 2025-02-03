@@ -31,3 +31,10 @@ Este plato es una deliciosa preparación de calamares, muy popular en Italia. Lo
 - Negroni: la bebida mediterránea de elaboración simple más internacional. ...
 - Brisa griega: para los amantes de la coctelería creativa. ...
 - Mauresque: el clásico almendrado.
+
+## Consejos
+
+* Comidas a base de vegetales, con sólo pequeñas cantidades de carne de res y pollo.
+* Más porciones de granos enteros, frutas y verduras frescas, nueces y legumbres.
+* Alimentos que en forma natural contengan cantidades altas de fibra.
+* Mucho pescado y otros mariscos en lugar.
