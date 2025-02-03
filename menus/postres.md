@@ -31,3 +31,18 @@ Pastéis de Belém, es un postre originario de Portugal, perfecto para compartir
 * Chocolate caliente.
 * Soda con limón.
 * Cocteles.
+
+## Consejos
+
+Repasá muy bien la receta antes de iniciar
+Debés asegurarte de tener todos los ingredientes incluso los que desees agregar para darle un toque personal al postre que preparás. Prestá atención a los pasos y tené los utensilios que necesitarás. 
+
+Lo mejor es averiguar si conocés las técnicas, si no tienes a mano un utensilio o ingrediente importante para que el postre resulte delicioso antes de empezar, ya que así evitarás contratiempos.
+
+Usa ingredientes saludables, de calidad y a temperatura ambiente
+Lo mejor es utilizar ingredientes lo más frescos posibles y a temperatura ambiente. Así, te asegurás de que la consistencia y la textura de tu preparación no se vean alteradas. Por ejemplo, usar mantequilla fría no hará que la masa suba, y derretirla en el microondas hará que el resultado final quede demasiado grasoso. 
+
+Para darle un plus rico y saludable a tus postres como queques puedes sustituir la mantequilla por aceite de soya.
+
+Agregá las cantidades justas a la preparación 
+Las medidas de todos los ingredientes que incluyas son muy importantes. Asegúrate de seguir la fórmula de la receta inicial para evitar fallas en la preparación. Cada gramo de más o de menos puede causar que un sabor o textura en el dulce estropee por completo el producto final. 
